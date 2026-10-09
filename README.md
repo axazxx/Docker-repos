@@ -1,6 +1,6 @@
 # Repo to learn Docker.
 
-Forked from Abhishek Veermalla's repos.
+(Learning Purpose only) Forked this Abhishek Veermalla's repo to learn docker hands-on.
 
 ## Containers vs Virtual Machine 
 
